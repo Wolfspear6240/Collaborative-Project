@@ -26,7 +26,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 716}
   m_MaxSize: {x: 18008, y: 18066}
   vertical: 0
-  controlID: 9251
+  controlID: 4394
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -168,7 +168,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6efbffff
+      m_ExpandedIDs: 92fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -184,7 +184,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 3}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 716}
   m_MaxSize: {x: 10004, y: 18066}
   vertical: 1
-  controlID: 9191
+  controlID: 4344
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -309,13 +309,13 @@ MonoBehaviour:
       m_Value: 0
     zGrid:
       speed: 2
-      m_Value: 0.8178291
+      m_Value: 1
   m_Rotation:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
     speed: 2
-    m_Value: 38.039448
+    m_Value: 61.732433
   m_Ortho:
     speed: 2
     m_Value: 1
@@ -367,14 +367,14 @@ MonoBehaviour:
     m_KeySerializationHelper:
     - {fileID: 2633221630174646756, guid: 2b2115791a25d444d8fbb38df80ad9b1, type: 2}
     m_ValueSerializationHelper:
-    - e00: 1.5798033
+    - e00: 0.68519545
       e01: 0
       e02: 0
-      e03: -84.65508
+      e03: 253.92688
       e10: 0
-      e11: 1.5798033
+      e11: 0.68519545
       e12: 0
-      e13: -230.98798
+      e13: 77.896484
       e20: 0
       e21: 0
       e22: 1
@@ -421,8 +421,8 @@ MonoBehaviour:
     y: 453
     width: 1440
     height: 232
-  m_MinSize: {x: 204, y: 222}
-  m_MaxSize: {x: 4004, y: 4022}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -458,7 +458,7 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 12904
+  m_LastSelectedObjectID: 12936
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -479,8 +479,8 @@ MonoBehaviour:
     y: 685
     width: 1440
     height: 272
-  m_MinSize: {x: 234, y: 272}
-  m_MaxSize: {x: 10004, y: 10022}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -525,20 +525,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Art/Main Character
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Art/Main Character
   m_LastFoldersGridSize: -1
   m_LastProjectPath: A:\Collaborative Project\Collaborative-Project\Hack_Heist
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b62a0000
-    m_LastClickedID: 10934
-    m_ExpandedIDs: 00000000e22900004e31000000ca9a3b
+    m_SelectedIDs: 0c2f0000
+    m_LastClickedID: 12044
+    m_ExpandedIDs: 00000000e62900005631000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -566,7 +566,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ec2b0000
     m_LastClickedID: 11244
-    m_ExpandedIDs: 00000000e22900004e31000000ca9a3b
+    m_ExpandedIDs: 00000000e62900005631000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -591,9 +591,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 68320000
-    m_LastClickedInstanceID: 12904
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: dc320000
+    m_LastClickedInstanceID: 13020
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 44240000643100006e24000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -641,8 +641,8 @@ MonoBehaviour:
     y: 0
     width: 277
     height: 957
-  m_MinSize: {x: 277, y: 72}
-  m_MaxSize: {x: 4002, y: 4022}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
